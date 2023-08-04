@@ -48,10 +48,10 @@ function Page() {
 											})
 							}
 						>
-							<img src="/img/micro.svg" alt="record" />
+							<img src="./img/micro.svg" alt="record" />
 						</div>
 						<div className="reset_button button" onClick={resetTranscript}>
-							<img src="/img/reset.svg" alt="reset" />
+							<img src="./img/reset.svg" alt="reset" />
 						</div>
 					</div>
 				</>

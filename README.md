@@ -1,3 +1,7 @@
+## Deploy:
+
+https://androidel93.github.io/pt-test-2/
+
 ## Стек:
 
 [![React](https://img.shields.io/badge/ReactJS-blue?logo=react&style=flat)](https://react.dev/) [![Redux](https://img.shields.io/badge/Redux--toolkit-blueviolet?logo=Redux&style=flat)](https://redux.js.org/) [![RSR](https://img.shields.io/badge/react--speech--recognition-gray?logo=npm&style=flat)](https://www.npmjs.com/package/react-speech-recognition)
